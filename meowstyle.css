@@ -2,7 +2,7 @@
 html {
     background-image: url('https://i.natgeofe.com/k/dfc7bec2-0657-4887-81a7-6d024a8c3f70/WH-XmasTree_4x3.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 body {
