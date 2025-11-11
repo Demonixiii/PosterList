@@ -151,7 +151,9 @@ li p{
 }
 @media (max-width: 700px) {
     body{
-        max-width: 250px;
+        max-width: 600px;
     }
-    
+    .loist li{
+        flex-direction: column;
+    }
 }
