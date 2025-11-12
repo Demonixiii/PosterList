@@ -51,8 +51,8 @@ li {
 input[type="checkbox"] {
     margin-right: 10px; /* space between checkbox and icon */
     cursor: pointer;
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
 }
 
 .icon {
@@ -161,8 +161,8 @@ li p{
         max-width: 700px;
     }
     input[type="checkbox"]{
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 }
 @media (max-width: 1180px) {
@@ -170,7 +170,7 @@ li p{
         max-width: 1000px;
     }
     input[type="checkbox"]{
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
     }
 }
