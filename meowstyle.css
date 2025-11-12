@@ -51,8 +51,6 @@ li {
 input[type="checkbox"] {
     margin-right: 10px; /* space between checkbox and icon */
     cursor: pointer;
-    width: 15px;
-    height: 15px;
 }
 
 .icon {
